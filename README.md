@@ -23,6 +23,11 @@ $ php artisan migrate
 
 $ php artisan serve
 
+............................................
+
+(if you dont want to follow setting up 1 you can choose this Setting 2)
+
+
 
 Setting up 2 :
 | download the code
@@ -36,5 +41,20 @@ $ php artisan key:generate
 $ php artisan migrate or import sql(optional)
 
 $ php artisan serve
+
+..........................................
+QUICK WAY TO SET UP 
+| download the code
+
+$ cd Minibob
+
+$ composer install
+
+$ php artisan key:generate
+
+import sql(optional)
+
+$ php artisan serve
+
 
 
